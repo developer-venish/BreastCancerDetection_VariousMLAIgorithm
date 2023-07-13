@@ -32,3 +32,6 @@ This code performs the following tasks:
 15. It creates another Logistic Regression model, fits it to the training data, and predicts the target variable for the test set.
 
 Note: The code assumes that the dataset file 'data.csv' is available and contains the required columns for the analysis.
+
+---------------------------------------------------------------------------------------
+
